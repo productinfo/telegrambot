@@ -1,0 +1,11 @@
+{
+  "root": true,
+  "parserOptions": {
+    "parser": "babel-eslint"
+  },
+  "extends": ["standard"],
+  "rules": {
+    // allow async-await
+    "generator-star-spacing": "off"
+  }
+}
